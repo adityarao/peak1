@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>true</action>
+        <action_event>click</action_event>
+        <action_target/>
+        <action_target_ref display_value="x_snc_conf_registr_conf_registration_app">30d3f13013e6f200db3636328144b0ff</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Click on the new button to create a new registration ]]></content>
+        <guide display_value="Understand the Conference App">3193313013e6f200db3636328144b08f</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 0</name>
+        <options/>
+        <order>0</order>
+        <placement>bottom</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-03 05:01:09</sys_created_on>
+        <sys_id>3cd3353013e6f200db3636328144b012</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Step 0</sys_name>
+        <sys_package display_value="Conf Registration App" source="x_snc_conf_registr">1eaf2d7c13a6f200db3636328144b074</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conf Registration App">1eaf2d7c13a6f200db3636328144b074</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_3cd3353013e6f200db3636328144b012</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-03 05:01:09</sys_updated_on>
+        <target/>
+        <target_ref display_value="x_snc_conf_registr_conf_registration_app">30d3f13013e6f200db3636328144b0ff</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>x_snc_conf_registr_conf_registration_app_table_list.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=3cd3353013e6f200db3636328144b012"/>
+</record_update>
